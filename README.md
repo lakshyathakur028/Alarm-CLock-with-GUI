@@ -1,5 +1,5 @@
 
-Python Alarm Clock
+#Python Alarm Clock
 
 This is a simple yet effective alarm clock program built using Python. The alarm clock allows users to set custom alarms with specific times and optional personalized messages. It provides a user-friendly command-line interface for setting alarms and managing existing ones.
 
